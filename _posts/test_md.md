@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2013-10-17 05:51:43
+categories: jekyll update
+---
 #  这是一个练习
 
 ## 标题好像太大了
